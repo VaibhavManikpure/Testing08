@@ -11,5 +11,7 @@ public void sum() {
 	public void sub(){
         System.out.println("next1");
 	}
-
+	public void sub1(){
+        System.out.println("next2");
+	}
 }
