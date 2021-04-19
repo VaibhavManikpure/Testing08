@@ -8,5 +8,8 @@ public void sum() {
 	System.out.println("hello sum method");
 	System.out.println("next");
 }
+	public void sub(){
+        System.out.println("next1");
+	}
 
 }
